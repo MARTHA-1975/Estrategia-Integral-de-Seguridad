@@ -1,6 +1,6 @@
 # Estrategia-Integral-de-Seguridad
 Diapositiva  de Estrategia Integral de Seguridad para una empresa PYme
-🛡️ Estrategia Integral de Seguridad para Sam's Scoops
+🛡️ 
 
 ## 📍 Introducción
    ha experimentado una expansión significativa, operando en múltiples ubicaciones y manejando datos sensibles de clientes. Este informe presenta una estrategia de seguridad integral para proteger la información, mitigar riesgos y fortalecer la resiliencia operativa.
